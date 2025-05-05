@@ -1,4 +1,4 @@
-# YelpCamp（ポートフォリオ作品）
+# YelpCamp
 
 このアプリは、Udemy講座「The Web Developer Bootcamp 2023」で制作したフルスタックWebアプリケーションです。  
 Node.js / Express / MongoDB / EJS などの技術を用いて、キャンプ場の投稿・閲覧・レビューを行う機能を実装しました。
@@ -21,3 +21,11 @@ Node.js / Express / MongoDB / EJS などの技術を用いて、キャンプ場�
 - Cloudinary（画像ホスティング）
 - Mapbox（地図表示）
 - Bootstrap 5（フロントエンド）
+
+## セットアップ方法
+
+ローカルで動かす場合、以下のコマンドを実行
+```bash
+git clone https://github.com/mizu20040814/YelpCamp.git
+cd YelpCamp
+npm install
